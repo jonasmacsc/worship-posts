@@ -77,11 +77,12 @@ def main():
     cross((255, 255, 255, 255))
 
     # texto principal: reduz a fonte até caber em no máximo 5 linhas
+    manual = text.count("\n") + 1  # respeita as quebras manuais: encolhe a fonte até caberem
     size = 84
     while True:
         f = ImageFont.truetype(SERIF_B, size)
-        lines = wrap(d, text, f, W - 220)
-        if len(lines) <= 5 or size <= 56:
+        lines = wrap(d, text, f, W - 160)
+        if (len(lines) <= max(manual, 1) if manual > 1 else len(lines) <= 5) or size <= 52:
             break
         size -= 4
     lh = int(size * 1.35)
