@@ -28,6 +28,15 @@
       "texto": "Separe hoje um momento para adorar ao Senhor. Seu louvor é bem-vindo.",
       "versao": "",
       "status": "aguardando aprovação"
+    },
+    {
+      "data": "2026-11-23",
+      "arquivo": "stories/2026-11-23/story_01.jpg",
+      "tipo": "versiculo",
+      "referencia": "Salmos 23:1",
+      "texto": "O Senhor é o meu pastor; nada me faltará.",
+      "versao": "ARA/ARC (conferido em bibliaonline.com.br e biblestudytools.com)",
+      "status": "aguardando aprovação"
     }
   ]
 }
