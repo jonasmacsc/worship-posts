@@ -48,6 +48,24 @@
       "versao": "",
       "status": "publicado",
       "media_id": "18142073932634849"
+    },
+    {
+      "data": "2026-11-24",
+      "arquivo": "stories/2026-11-24/story_02_canal.jpg",
+      "tipo": "divulgacao_youtube",
+      "referencia": "",
+      "texto": "Coletânea completa no meu canal - youtube.com/@jonasmacielworship",
+      "versao": "",
+      "status": "aguardando publicação"
+    },
+    {
+      "data": "2026-11-24",
+      "arquivo": "stories/2026-11-24/reel_coletanea.mp4",
+      "tipo": "reel_divulgacao_youtube",
+      "referencia": "",
+      "texto": "Adoração em meio à dor - teaser 30s",
+      "versao": "",
+      "status": "aguardando publicação"
     }
   ]
 }
