@@ -78,6 +78,26 @@
       "versao": "",
       "status": "publicado",
       "media_id": "17941860309123901"
+    },
+    {
+      "data": "2026-11-25",
+      "arquivo": "reels/ate-minha-dor-cantar_parte1.mp4",
+      "tipo": "reel_musica",
+      "referencia": "Salmo 42:5; Salmo 34:18; Hebreus 4:15-16; João 11:25,35",
+      "texto": "Até minha dor cantar (Parte 1)",
+      "versao": "",
+      "status": "publicado",
+      "media_id": "18222024538357658"
+    },
+    {
+      "data": "2026-11-25",
+      "arquivo": "reels/ate-minha-dor-cantar_parte2.mp4",
+      "tipo": "reel_musica",
+      "referencia": "Salmo 42:5; Salmo 34:18; Hebreus 4:15-16; João 11:25,35",
+      "texto": "Até minha dor cantar (Parte 2)",
+      "versao": "",
+      "status": "publicado",
+      "media_id": "17886700479528731"
     }
   ]
 }
