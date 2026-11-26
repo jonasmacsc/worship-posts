@@ -116,6 +116,15 @@
       "texto": "Teu nome entre as lágrimas (Parte 2)",
       "versao": "",
       "status": "aguardando aprovação"
+    },
+    {
+      "data": "2026-11-26",
+      "arquivo": "stories/2026-11-26/story_01.jpg",
+      "tipo": "versiculo",
+      "referencia": "Salmos 126:3",
+      "texto": "Grandes coisas fez o Senhor por nós, e, por isso, estamos alegres.",
+      "versao": "ARC (conferido em bible.com e bibliaon.com)",
+      "status": "aguardando aprovação"
     }
   ]
 }
